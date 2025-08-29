@@ -1,0 +1,24 @@
+clothes_class_env
+IDclothes_Data
+IDclothes_Data_process
+image_test
+veste sans manches
+mlruns
+IDclothes_Data_process_yolo
+IDclothes_client_2
+IDclothes_Data
+IDclothes_Data_client
+IDclothes_Data_client_process
+IDclothes_Data_client_reste
+IDclothes_Data_client_ycrcb
+lot_test
+lot_test_kp
+image_paths_labels.csv
+vetement_client
+vetement_client_client_process
+vetement_client2
+image_paths_labels_client.csv
+model
+runs
+IDclothes_Data_process_yolo
+
